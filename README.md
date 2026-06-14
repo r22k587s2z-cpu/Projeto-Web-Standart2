@@ -1,1 +1,2 @@
-# Projeto-Web-Standart2
+# EducaFácil
+Projeto Integrador Web Standard.
